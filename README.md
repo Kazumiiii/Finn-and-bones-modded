@@ -65,6 +65,6 @@ Backup made: 2026-10-25.
 
 <div align="center">
 
-<a href="Finn%20and%20Bones%20mod%20by%20Zuzu.zip"><strong>Download Finn and Bones Mod by Zuzu</strong></a>
+<a href="https://github.com/Kazumiiii/Finn-and-bones-modded/raw/refs/heads/main/Finn%20and%20Bones%20mod%20by%20Zuzu.zip" download><strong>Download Finn and Bones Mod by Zuzu</strong></a>
 
 </div>
